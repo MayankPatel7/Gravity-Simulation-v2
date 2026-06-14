@@ -10,7 +10,7 @@ WIDTH = 1280
 HEIGHT = 720
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Space Flight Simulator")
+pygame.display.set_caption("Gravity Simulation v2")
 clock = pygame.time.Clock()
 FPS = 100
 TIME_SCALE = 1
