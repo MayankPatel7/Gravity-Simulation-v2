@@ -9,3 +9,4 @@ Features:
 3. adjustable time scale('>' to increase and '<' to decrease time scale)
 4. spacecraft's velocity can be updated in realtime with four arrow keys(for each direction) individually
 5. All important stats like apogee, perigee, velocity, etc are displayed on top-left corner
+6. Press 'O' to put the space craft in the perfect circular around earth with orbital height of current altitude
